@@ -1,0 +1,28 @@
+me/AlexandraSpanache/DiscordBot/CommandBuilders/ICommand.java
+ me.AlexandraSpanache.DiscordBot.CommandBuilders.ICommand
+me/AlexandraSpanache/DiscordBot/Main.java
+ me.AlexandraSpanache.DiscordBot.Main
+me/AlexandraSpanache/DiscordBot/CommandBuilders/Commands/PingCommand.java
+ me.AlexandraSpanache.DiscordBot.CommandBuilders.Commands.PingCommand
+me/AlexandraSpanache/DiscordBot/CommandBuilders/CommandEnvironment.java
+ me.AlexandraSpanache.DiscordBot.CommandBuilders.CommandEnvironment
+me/AlexandraSpanache/DiscordBot/CommandBuilders/Commands/RSSFeedReader.java
+ me.AlexandraSpanache.DiscordBot.CommandBuilders.Commands.RSSFeedReader
+me/AlexandraSpanache/DiscordBot/Bot.java
+ me.AlexandraSpanache.DiscordBot.Bot
+me/AlexandraSpanache/DiscordBot/CommandBuilders/Commands/JPACommand.java
+ me.AlexandraSpanache.DiscordBot.CommandBuilders.Commands.JPACommand
+me/AlexandraSpanache/DiscordBot/CommandBuilders/Commands/CollectionsCommand.java
+ me.AlexandraSpanache.DiscordBot.CommandBuilders.Commands.CollectionsCommand
+me/AlexandraSpanache/DiscordBot/CommandBuilders/Commands/InterfacesCommand.java
+ me.AlexandraSpanache.DiscordBot.CommandBuilders.Commands.InterfacesCommand
+me/AlexandraSpanache/DiscordBot/CommandBuilders/Commands/GenericsCommand.java
+ me.AlexandraSpanache.DiscordBot.CommandBuilders.Commands.GenericsCommand
+me/AlexandraSpanache/DiscordBot/CommandManager.java
+ me.AlexandraSpanache.DiscordBot.CommandManager
+me/AlexandraSpanache/DiscordBot/Listener.java
+ me.AlexandraSpanache.DiscordBot.Listener
+me/AlexandraSpanache/DiscordBot/CommandBuilders/Commands/ObjectCommand.java
+ me.AlexandraSpanache.DiscordBot.CommandBuilders.Commands.ObjectCommand
+me/AlexandraSpanache/DiscordBot/CommandBuilders/Commands/ClassesCommand.java
+ me.AlexandraSpanache.DiscordBot.CommandBuilders.Commands.ClassesCommand
